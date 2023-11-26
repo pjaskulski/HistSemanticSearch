@@ -1,0 +1,8 @@
+llama-hub
+streamlit
+openai
+nltk
+streamlit-pills
+chromadb
+spacy
+tiktoken
